@@ -20,7 +20,7 @@ book_club_data = {
             datetime.date(22, 4, 2023),
             # Add more meeting dates if needed
         ],
-        "quotes": ["Book 1 Quote 1", "Book 1 Quote 2", "Book 1 Quote 3"],
+        "quotes": ["Há duas espécies de pessoas: aquelas que dizem a Deus: 'Seja feita a Tua vontade' e aquelas a quem Deus diz: 'Seja feita a tua vontade'", "Se olharmos constantemente para trás, não seremos capazes de ver o caminho à nossa frente.", "Não se engane. O inferno é uma escolha.", "O mal é a ausência do bem, e a maior parte do mal é apenas um bem que se tornou retorcido.", "A alegria não é a ausência de tristeza, mas a presença de Deus."],
     },
     "book_2": {
         "title": "Antônio e Cleópatra",
@@ -29,7 +29,7 @@ book_club_data = {
             datetime.date(13, 5, 2023),
             # Add more meeting dates if needed
         ],
-        "quotes": ["Book 2 Quote 1", "Book 2 Quote 2", "Book 2 Quote 3"],
+        "quotes": ["A idade não pode murchar, nem o costume perder sua infinita variedade. Outras mulheres saciam os apetites que alimentam; ela os torna famintos.", "O coração que ama, cede e obedece; a ambição ensina a astúcia.", "Vamos até o fim do mundo e desafiar o perigo.", "A fortuna e o amor lisonjeiam o esperançoso.", "As palavras têm o poder de te fazer sentir a mais profunda tristza ou te elevar às alturas."],
     },
     "book_3": {
         "title": "O Auto da Compadecida",
@@ -38,7 +38,7 @@ book_club_data = {
             datetime.date(27, 5, 2023),
             # Add more meeting dates if needed
         ],
-        "quotes": ["Book 2 Quote 1", "Book 2 Quote 2", "Book 2 Quote 3"],
+        "quotes": ["“Eu só sei que a gente morre e não sabe de onde veio nem pra onde vai, só isso.", "Não sei, só sei que foi assim.", "Mulher é como dinheiro: só sabe o valor o homem que não tem!", "O homem sem coragem é como um passarinho sem asas.", "A pior desgraça do mundo é a ingratidão, que é o maior dos crimes."],
     },
 }
 
